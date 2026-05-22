@@ -1,0 +1,14 @@
+1. The SAT instance from graph1_3.cnf is UNSATISFIABLE
+2. The SAT instance from graph1_4.cnf is SATISFIABLE.
+3. Since the SAT instance for graph1_3.cnf (k = 3) is UNSATISFIABLE and the SAT instance for graph1_4.cnf (k = 4) is SATISFIABLE, this tells us that graph 1 cannot be properly colored with 3 colors but can be properly colored with 4 colors. Therefore, the minimum number of colors needed to color graph 1 (its chromatic number) is 4.
+    One valid coloring is:
+
+    Node 1: BLUE
+    Node 2: RED
+    Node 3: GREEN
+    Node 4: RED
+    Node 5: YELLOW
+    Node 6: GREEN
+    Node 7: YELLOW
+
+4. 8 colors
